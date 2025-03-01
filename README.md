@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882582406358515713)](https://discord.com/users/882582406358515713)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/702791382661595177)](https://discord.com/users/702791382661595177)
 <h2 align="center">
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/efwlxc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
  <br> </br>
